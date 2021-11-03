@@ -66,7 +66,7 @@
       <Kind>Static</Kind>
       <ForceLoad>True</ForceLoad>
       <LinkerFlags>-Objc -all_load -lz -lsqlite3.0 -lstdc++</LinkerFlags>
-      <Frameworks>SystemConfiguration Security CoreTelephony CFNetwork</Frameworks>
+      <Frameworks>SystemConfiguration Security CoreTelephony CFNetwork WebKit</Frameworks>
     </NativeReference>
   </ItemGroup>
   <ItemGroup>
